@@ -10,3 +10,4 @@ Move the file betty from /tmp to /tmp/my_first_directory
 Delete directory my_first_directory in /tmp
 ./10-back : Change the working directory to the previous one
 ./11-lists : List all files, even hidden, in the current directory, th parent one and /boot
+./12-file_type : Print the type of the file iamafile in /tmp
