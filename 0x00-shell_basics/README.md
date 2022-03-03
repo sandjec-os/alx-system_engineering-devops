@@ -6,3 +6,4 @@
 ./5-listfilesdigitonly : Display content (long format, with user and group IDs, and hidden files)
 ./6-firstdirectory : Create directory in tmp
 Move the file betty from /tmp to /tmp/my_first_directory
+./8-firstdelete : Delete the file betty
