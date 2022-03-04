@@ -10,3 +10,4 @@
 ./9-John_Doe : Set the mode of the file to -rwxr-x-wx
 ./10-mirror_permissions : Change mode of file hello the same as olleh mode
 ./11-directories_permissions : Add execute permissions to all subdirectories of the current one for owner groups and all others
+./12-directory_permissions : Create a directory called my_dir with permissions 751 in the working directory
