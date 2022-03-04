@@ -8,3 +8,4 @@
 ./7-everybody : Add exection permissions to everyone
 ./8-James_Bond : Set all permissions to the others and nothing to the owner and group
 ./9-John_Doe : Set the mode of the file to -rwxr-x-wx
+./10-mirror_permissions : Change mode of file hello the same as olleh mode
