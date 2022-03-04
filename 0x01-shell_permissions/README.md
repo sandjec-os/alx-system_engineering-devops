@@ -4,3 +4,4 @@
 ./3-new_owner : Change the owner of the file hello to user betty
 ./4-empty : Create empty file called hello
 ./5-execute : Add execute permissions to the owner of hello
+./6-multiple_permissions : Add multiple permissions to hello
